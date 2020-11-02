@@ -19,7 +19,6 @@ public class Supermarket {
     public Artikl izbaciArtiklSaKodom(String kod){
         boolean ima=false;
         Artikl art = null;
-        System.out.println("brojac je: " + br);
         int indeks = 0;
         for(Artikl c : artikli){
             String str = c.getKod();
