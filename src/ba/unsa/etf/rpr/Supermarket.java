@@ -16,6 +16,10 @@ public class Supermarket {
         return artikli;
     }
 
+    public int getBr() {
+        return br;
+    }
+
     public Artikl izbaciArtiklSaKodom(String kod){
         boolean ima=false;
         Artikl art = null;

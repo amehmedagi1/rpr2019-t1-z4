@@ -3,6 +3,8 @@ package ba.unsa.etf.rpr;
 public class Korpa {
     private Artikl[] artikli = new Artikl[50]; //maksimalno 50
     private int br=0;
+
+
     public boolean dodajArtikl(Artikl art){
         if(br < 50){
             artikli[br] = new Artikl(art.getNaziv(), art.getCijena(), art.getKod());
@@ -14,6 +16,10 @@ public class Korpa {
 
     public Artikl[] getArtikli() {
         return artikli;
+    }
+
+    public int getBr() {
+        return br;
     }
 
     public Artikl izbaciArtiklSaKodom(String kod){
