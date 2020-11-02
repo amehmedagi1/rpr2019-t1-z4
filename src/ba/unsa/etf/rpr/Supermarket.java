@@ -17,15 +17,23 @@ public class Supermarket {
     }
 
     public Artikl izbaciArtiklSaKodom(String kod){
-        for(int i = 0; i < br; i++){
-            if(artikli[i].getKod().equals(kod)){
-                Artikl novi = new Artikl(artikli[i].getNaziv(), artikli[i].getCijena(), artikli[i].getKod());
-                artikli[i] = null;
-                pomjeriSve(i);
-                return novi;
+        boolean ima=false;
+        Artikl art = null;
+        System.out.println("brojac je: " + br);
+        int indeks = 0;
+        for(Artikl c : artikli){
+            String str = c.getKod();
+            if(str.equals(kod)){
+                ima = true;
+                break;
             }
+            indeks++;
         }
-        return null;
+        if(ima){
+            art=artikli[indeks];
+            pomjeriSve(indeks);
+        }
+        return art;
     }
     private void pomjeriSve(int poz){
         for(int i = poz; i< br; i++){
@@ -34,4 +42,5 @@ public class Supermarket {
         artikli[br] = null;
         br--;
     }
+
 }
