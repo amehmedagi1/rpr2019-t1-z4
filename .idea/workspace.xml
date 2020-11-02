@@ -82,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604311861100</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Prepravke u metodi izbaciArtiklSaKodom">
+      <created>1604312584656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604312584656</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Prepravke u metodi izbaciArtiklSaKodom">
+      <created>1604312653803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604312653803</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,25 +137,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603716529614" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1604311737452">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1604312698019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604311737452" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1604311737451">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604312698019" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1604312698019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604311737451" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1604311737451">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604312698019" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1604312698018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604311737451" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1604311737451">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604312698018" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1604312698019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604311737451" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604311871827">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604312698019" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604312697048">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604311871827" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604312697048" />
   </component>
 </project>
